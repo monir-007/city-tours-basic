@@ -30,5 +30,53 @@ export const tourData = [
     name: "tokyo sushi tour",
     info:
       "Tokyo has been a well-traveled destination for decades. Cherry blossoms, Mt. Fuji, and sushi grace the postcards and photographs. This thriving, colorful city is famous for many more reasons than one. Tokyo boasts so many noteworthy attractions that it can be difficult to know what it was famous for first. If you plan on visiting this famous city, here are some of the top 7 things Tokyo is famous for.Home to the busiest railway stations on the planet, Shibuya Crossing has a reputation for being a bustling hub. This region is hugely populated, and is a hot spot for nightlife and youth culture. One of the top attractions is watching the street lights change at the main traffic crossing. Vehicles are stopped in all directions, allowing pedestrians to completely take over the entire crosswalk. There’s a Starbucks that overlooks the scene, so make sure to get up there and have a coffee while looking out below."
+  },
+  {
+    id: 5,
+    city: "paris",
+    img: "./img/paris.jpeg",
+    name: "paris lights tour",
+    info:
+      "Paris, the City of Light is the world's most visited capital. The city is proud of its many monuments from the iconic Eiffel Tower to the lofty Notre-Dame cathedral and the majestic Arc de Triomphe. No doubt this is Europe's most enchanting capital! Know about the romantic destinations of Europe."
+  },
+  {
+    id: 6,
+    city: "paris",
+    img: "./img/paris.jpeg",
+    name: "paris lights tour",
+    info:
+      "Paris, the City of Light is the world's most visited capital. The city is proud of its many monuments from the iconic Eiffel Tower to the lofty Notre-Dame cathedral and the majestic Arc de Triomphe. No doubt this is Europe's most enchanting capital! Know about the romantic destinations of Europe."
+  },
+  {
+    id: 7,
+    city: "paris",
+    img: "./img/paris.jpeg",
+    name: "paris lights tour",
+    info:
+      "Paris, the City of Light is the world's most visited capital. The city is proud of its many monuments from the iconic Eiffel Tower to the lofty Notre-Dame cathedral and the majestic Arc de Triomphe. No doubt this is Europe's most enchanting capital! Know about the romantic destinations of Europe."
+  },
+  {
+    id: 8,
+    city: "paris",
+    img: "./img/paris.jpeg",
+    name: "paris lights tour",
+    info:
+      "Paris, the City of Light is the world's most visited capital. The city is proud of its many monuments from the iconic Eiffel Tower to the lofty Notre-Dame cathedral and the majestic Arc de Triomphe. No doubt this is Europe's most enchanting capital! Know about the romantic destinations of Europe."
+  },
+  {
+    id: 9,
+    city: "paris",
+    img: "./img/paris.jpeg",
+    name: "paris lights tour",
+    info:
+      "Paris, the City of Light is the world's most visited capital. The city is proud of its many monuments from the iconic Eiffel Tower to the lofty Notre-Dame cathedral and the majestic Arc de Triomphe. No doubt this is Europe's most enchanting capital! Know about the romantic destinations of Europe."
+  },
+  {
+    id: 10,
+    city: "paris",
+    img: "./img/paris.jpeg",
+    name: "paris lights tour",
+    info:
+      "Paris, the City of Light is the world's most visited capital. The city is proud of its many monuments from the iconic Eiffel Tower to the lofty Notre-Dame cathedral and the majestic Arc de Triomphe. No doubt this is Europe's most enchanting capital! Know about the romantic destinations of Europe."
   }
 ];
